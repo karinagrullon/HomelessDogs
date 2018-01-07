@@ -1,0 +1,66 @@
+/* general CSS*/
+
+body{
+    background-image: url(https://i.imgur.com/Nbi7bYI.jpg);
+}
+h1,h2{
+    
+}
+
+.article{
+    margin-top: 10%;
+}
+
+
+
+
+/* Nav CSS*/
+
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.nav-li{
+     float: left;
+}
+.nav-li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+/* Gallery CSS*/
+.top-header{
+    text-align: center;
+}
+.gallery-p{
+    margin: 5%;
+    
+}
+
+.gallery-div{
+
+    margin: auto;
+    width: 50%;
+    border: 10px solid steelblue;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.gallery-img{
+    width: 200px;
+    height: 200px;
+
+}
