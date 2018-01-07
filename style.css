@@ -64,3 +64,28 @@ h1,h2{
     height: 200px;
 
 }
+
+
+/*Home CSS*/
+.puppy{
+    position: relative;
+    margin: center;
+}
+
+.friends{
+    position: absolute;
+    color: white;
+}
+
+.pup{
+    position: absolute;
+}
+
+.right{
+    width: 250px;
+    float: right;
+}
+
+.homeless{
+
+}
